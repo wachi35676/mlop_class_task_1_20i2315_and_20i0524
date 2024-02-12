@@ -75,3 +75,7 @@ branch '20i2315' set up to track 'origin/20i2315'.
 
 input: git add .
 output:
+
+input: git commit -m "updated readme"
+output: [20i2315 c062268] updated readme
+ 1 file changed, 70 insertions(+)
